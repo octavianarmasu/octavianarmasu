@@ -10,8 +10,10 @@ building innovative solutions.
 
 📧 **Reach out to me:** [octavian.armasu@gmail.com](mailto:octavian.armasu@gmail.com)
 
-🔗 **Connect with me:** 
-<a href="https://www.linkedin.com/in/octavian-armasu-b55726281/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="25" alt="LinkedIn"></a>
+<b>🔗Connect with me:</b><br>
+<a href="https://www.linkedin.com/in/octavian-armasu-b55726281/">
+  <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" width="30" alt="LinkedIn">
+</a>
 
 
 
