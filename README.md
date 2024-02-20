@@ -8,6 +8,8 @@ building innovative solutions.
 - Developing robust and efficient software.
 - Exploring the depths of programming languages like Java, Rust, C, and Python.
 
+📧 **Reach out to me:** [octavian.armasu@gmail.com](mailto:octavian.armasu@gmail.com)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octavianarmasu&layout=compact&theme=default)
