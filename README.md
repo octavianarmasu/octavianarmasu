@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Computer Science Engineering student at the University Politehnica of Bucharest, currently
+I'm a passionate Computer Science student at the University Politehnica of Bucharest, currently
 working my way through my Bachelor's degree. I have a keen interest in solving complex problems and
 building innovative solutions.
 
