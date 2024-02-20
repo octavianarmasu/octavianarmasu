@@ -12,7 +12,7 @@ building innovative solutions.
 
 
 
-🔗 **Connect with me:** [![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw2uzRxvf4lIjonq3-Gf3U5I&ust=1708512769942000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKj-_pbguYQDFQAAAAAdAAAAABAI)](https://www.linkedin.com/in/octavian-armasu-b55726281/)
+🔗 **Connect with me:** [![](https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png)](https://www.linkedin.com/in/octavian-armasu-b55726281/)
 
 
 
