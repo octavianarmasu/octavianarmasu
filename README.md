@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a passionate Computer Science Engineering student at the University Politehnica of Bucharest, currently
+working my way through my Bachelor's degree. I have a keen interest in solving complex problems and
+building innovative solutions.
+
+🔍 What I'm focused on:
+  Developing robust and efficient software.
+  Exploring the depths of programming languages like Java, Rust, C, and Python.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octavianarmasu&layout=compact&theme=default)
+
+
 <!--
 **octavianarmasu/octavianarmasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
