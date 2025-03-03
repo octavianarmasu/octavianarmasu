@@ -8,7 +8,7 @@ building innovative solutions.
 - Developing robust and efficient software.
 - Exploring the depths of programming languages like Java, Rust, C, and Python.
 
-📧 **Reach out to me:** [octavian.armasu@gmail.com](mailto:armasuoctavian@gmail.com)
+📧 **Reach out to me:** [armasuoctavian@gmail.com](mailto:armasuoctavian@gmail.com)
 
 <b>🔗Connect with me:</b><br>
 <a href="https://www.linkedin.com/in/octavian-armasu-b55726281/">
